@@ -1,6 +1,6 @@
 # Chathelp - Seu Chatbot Universal e Open-Source! 🤖
 
-[![Chathelp](insira_o_link_da_sua_imagem_aqui)](insira_o_link_do_seu_site_aqui)
+[![Chathelp](https://github.com/brunohenrry/chathelp/blob/main/header.png)
 
 ## 🌐 Seu Site, Seu Assistente Virtual! 🌟
 
